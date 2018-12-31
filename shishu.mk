@@ -299,3 +299,8 @@ PRODUCT_PACKAGES += \
     Retro \
     MD2 \
     OOS
+
+# Cutout control overlays
+PRODUCT_PACKAGES += \
+    HideCutout \
+    StatusBarStock
