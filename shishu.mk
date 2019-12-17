@@ -1,6 +1,7 @@
  ## Overlay makefile for building styles, themes and accents
 # Color required overlays packages
 PRODUCT_PACKAGES += \
+    AccentColorOneplusOverlay \
     NotImpPurple \
     Holillusion \
     MoveMint \
