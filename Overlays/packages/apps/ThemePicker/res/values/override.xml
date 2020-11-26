@@ -21,11 +21,13 @@
     <!-- List of packages whose icons are used to preview the icon shape for a theme. These are
         typically GMS apps so they should be available in GMS devices. -->
     <array name="icon_shape_preview_packages">
+        <item>com.android.chrome</item>
         <item>com.android.settings</item>
         <item>com.google.android.deskclock</item>
-        <item>us.koller.cameraroll</item>
-        <item>com.android.launcher3</item>
-        <item>com.mixplorer</item>
+        <item>com.google.android.apps.photos</item>
+        <item>com.google.android.apps.nexuslauncher</item>
+        <item>com.google.android.youtube</item>
+        <item>com.android.documentsui</item>
         <item>com.bootleggers.shishufied</item>
     </array>
 </resources>
