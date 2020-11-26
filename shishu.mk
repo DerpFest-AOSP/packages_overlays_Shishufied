@@ -70,8 +70,10 @@ PRODUCT_PACKAGES += \
     FontRouterGothicNarrow \
     FontRoutedGothicRobotoCondensed \
     FontScientifica \
+    FontSlateForOnePlusOverlay \
     FontSofiaSans \
     FontSofiaSansSemiCondensed \
+    FontTinkerbell \
     FontUniversalisCond \
     FontUniversalisReg \
     FontVG5000 \
