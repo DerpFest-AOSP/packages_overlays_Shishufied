@@ -144,6 +144,7 @@ PRODUCT_PACKAGES += \
 
 # QS Tile Styles packages
 PRODUCT_PACKAGES += \
+    QStileDefault \
     QSTileDualTone \
     QSTileTrim \
     QSTileDualToneTrim \
