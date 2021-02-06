@@ -258,6 +258,8 @@ PRODUCT_PACKAGES += \
     FodAnimationResources
 endif
 
+DEVICE_PACKAGE_OVERLAYS += packages/overlays/Shishufied/FOD/fod-icons
+
 ## DO NOT MERGE - 
 #PRODUCT_PACKAGES += \
 #    ShishuTestOv \
