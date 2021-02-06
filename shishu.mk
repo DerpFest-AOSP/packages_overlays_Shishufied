@@ -253,6 +253,11 @@ ifeq ($(BOOTLEGGERS_BUILD_TYPE),Shishufied)
     packages/overlays/Shishufied/ShishufiedOverlays
 endif
 
+ifeq ($(EXTRA_FOD_ANIMATIONS),true)
+PRODUCT_PACKAGES += \
+    FodAnimationResources
+endif
+
 ## DO NOT MERGE - 
 #PRODUCT_PACKAGES += \
 #    ShishuTestOv \
