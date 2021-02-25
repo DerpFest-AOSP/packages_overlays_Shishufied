@@ -181,6 +181,11 @@ PRODUCT_PACKAGES += \
     GVM-PGM-PURP \
     GVM-PGM-ROSE
 
+# QS Header size
+PRODUCT_PACKAGES += \
+    headerlargeOverlay \
+    headerxlargeOverlay
+
 # Hot garbage
 #PRODUCT_PACKAGES += \
 #    DarkThemeAndroidOverlay \
