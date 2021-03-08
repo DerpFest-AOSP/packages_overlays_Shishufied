@@ -261,11 +261,9 @@ PRODUCT_PACKAGES += \
 #    ShishuProtostarThemeSystemUIOverlay \
 #    ShishuProtostarThemeWellbeingOverlay
 
-# Overlays for Shishufied devices
-ifeq ($(BOOTLEGGERS_BUILD_TYPE),Shishufied)
-    DEVICE_PACKAGE_OVERLAYS += \
+# Special spice overlays
+DEVICE_PACKAGE_OVERLAYS += \
     packages/overlays/Shishufied/ShishufiedOverlays
-endif
 
 ifeq ($(EXTRA_FOD_ANIMATIONS),true)
 PRODUCT_PACKAGES += \
