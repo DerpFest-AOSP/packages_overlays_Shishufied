@@ -274,3 +274,13 @@ endif
 #PRODUCT_PACKAGES += \
 #    ShishuTestOv \
 #    ShishuTestOv2 
+
+# Switch themes
+PRODUCT_PACKAGES += \
+    AOSP \
+    OnePlus \
+    Narrow \
+    Contained \
+    Telegram \
+    Retro \
+    MD2
