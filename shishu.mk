@@ -102,6 +102,9 @@ PRODUCT_PACKAGES += \
     BlackThemeAndroidOverlay \
     BlackThemeSettingsOverlay \
     BlackThemeSystemUIOverlay \
+    DerpNoirThemeAndroidOverlay \
+    DerpNoirThemeSettingsOverlay \
+    DerpNoirThemeSystemUIOverlay \
     LayanDarkenedThemeAndroidOverlay \
     LayanDarkenedThemeSettingsOverlay \
     LayanDarkenedThemeSystemUIOverlay \

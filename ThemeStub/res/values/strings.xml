@@ -32,6 +32,20 @@
 	<string name="theme_overlay_icon_sysui_aosp">com.android.theme.icon_pack.rounded.systemui</string>
 	<string name="theme_overlay_shape_aosp">com.android.theme.icon.roundedrect</string>
 
+    <!-- Derp Noir -->
+	<string name="theme_name_derpnoir">Derp Noir</string>
+	<string name="theme_title_derpnoir">@string/theme_name_derpnoir</string>
+	<string name="theme_overlay_color_derpnoir">com.bootleggers.shishufied.accent.iosblue</string>
+	<string name="theme_overlay_font_derpnoir">com.bootleggers.shishufied.font.anaheim</string>
+	<string name="theme_overlay_style_android_derpnoir">com.bootleggers.shishufied.theme.derpnoir.android</string>
+	<string name="theme_overlay_style_settings_derpnoir">com.bootleggers.shishufied.theme.derpnoir.settings</string>
+	<string name="theme_overlay_style_sysui_derpnoir">com.bootleggers.shishufied.theme.derpnoir.systemui</string>
+	<string name="theme_overlay_icon_android_derpnoir">com.android.theme.icon_pack.kai.android</string>
+	<string name="theme_overlay_icon_launcher_derpnoir">com.android.theme.icon_pack.kai.launcher</string> 
+	<string name="theme_overlay_icon_settings_derpnoir">com.android.theme.icon_pack.kai.settings</string>
+	<string name="theme_overlay_icon_sysui_derpnoir">com.android.theme.icon_pack.kai.systemui</string>
+	<string name="theme_overlay_shape_derpnoir">com.android.theme.icon.heart</string>
+
 	<!-- Pissel Theme -->
 	<string name="theme_name_pissel">Pixel</string>
 	<string name="theme_title_pissel">@string/theme_name_pissel</string>

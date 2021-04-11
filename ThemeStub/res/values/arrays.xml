@@ -2,6 +2,7 @@
 <resources>
     <string-array name="themes">
         <item>aosp</item>
+        <item>derpnoir</item>
         <item>pissel</item>
         <item>pacleggers</item>
         <item>solarized</item>
