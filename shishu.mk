@@ -38,6 +38,7 @@ PRODUCT_PACKAGES += \
 
 # Fonts required overlays packages
 PRODUCT_PACKAGES += \
+    FontAnaheim \
     FontAuthenticSans \
     FontBigNoodle \
     FontBikoHanken \
