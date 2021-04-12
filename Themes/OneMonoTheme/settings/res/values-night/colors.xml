@@ -15,7 +15,7 @@
     <color name="homepage_network_background">#79ffffff</color>
     <color name="homepage_connected_device_background">#79ffffff</color>
     <color name="homepage_app_and_notification_background">#79ffffff</color>
-    <color name="homepage_bootlegdump_background">#79ffffff</color>
+    <color name="homepage_derp_background">#79ffffff</color>
     <color name="homepage_battery_background">#79ffffff</color>
     <color name="homepage_display_background">#79ffffff</color>
     <color name="homepage_sound_background">#79ffffff</color>

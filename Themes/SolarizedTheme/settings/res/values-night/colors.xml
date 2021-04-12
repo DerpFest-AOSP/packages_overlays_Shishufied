@@ -12,7 +12,7 @@
     <color name="notification_importance_button_selected">@*android:color/secondary_text_default_material_dark</color>
 
     <!-- Dashboard/homepage icon background colors -->
-    <color name="homepage_network_background">#40ffffff</color> <color name="homepage_bootlegdump_background">#40ffffff</color>
+    <color name="homepage_network_background">#40ffffff</color> <color name="homepage_derp_background">#40ffffff</color>
     <color name="homepage_connected_device_background">#40ffffff</color>
     <color name="homepage_app_and_notification_background">#40ffffff</color>
     <color name="homepage_battery_background">#40ffffff</color>
