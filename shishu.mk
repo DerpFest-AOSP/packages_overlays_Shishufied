@@ -40,6 +40,7 @@ PRODUCT_PACKAGES += \
 # Fonts required overlays packages
 PRODUCT_PACKAGES += \
     FontAnaheim \
+    FontArbutusSlab \
     FontAuthenticSans \
     FontBigNoodle \
     FontBikoHanken \
@@ -61,6 +62,7 @@ PRODUCT_PACKAGES += \
     FontMescla \
     FontMilimetre \
     FontMittelschrift \
+    FontNotoSerif \
     FontNow \
     FontOdibee \
     FontOpenSauce \
@@ -70,6 +72,7 @@ PRODUCT_PACKAGES += \
     FontQTVagaround \
     FontReemKufi \
     FontRoboto \
+    FontRobotoSlab \
     FontRouterGothicNarrow \
     FontRoutedGothicRobotoCondensed \
     FontScientifica \
