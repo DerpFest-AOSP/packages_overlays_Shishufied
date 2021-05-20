@@ -298,7 +298,8 @@ PRODUCT_PACKAGES += \
     Telegram \
     Retro \
     MD2 \
-    OOS
+    OOS \
+    Fluid
 
 # Cutout control overlays
 PRODUCT_PACKAGES += \
