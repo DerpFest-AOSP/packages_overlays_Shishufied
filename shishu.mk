@@ -291,7 +291,6 @@ endif
 
 # Switch themes
 PRODUCT_PACKAGES += \
-    AOSP \
     OnePlus \
     Narrow \
     Contained \
