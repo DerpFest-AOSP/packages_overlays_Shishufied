@@ -94,6 +94,18 @@ PRODUCT_PACKAGES += \
     Shishufied \
     SimIcons
 
+# TEMP: ADDING CezanneService TO THE LIST
+PRODUCT_PACKAGES += \
+    RenoirAccent \
+    RenoirSecAccent \
+    RenoirMyterialAccent \
+    RenoirMyterialThemeAndroidOverlay \
+    RenoirMyterialThemeSettingsOverlay \
+    RenoirMyterialThemeSystemUIOverlay \
+    RenoirTransparentThemeAndroidOverlay \
+    RenoirTransparentThemeSettingsOverlay \
+    RenoirTransparentThemeSystemUIOverlay
+
 # Theme-Required overlays packages
 PRODUCT_PACKAGES += \
     AOSPThemeAndroidOverlay \
