@@ -298,7 +298,8 @@ PRODUCT_PACKAGES += \
     Retro \
     MD2 \
     OOS \
-    Fluid
+    Fluid \
+    AndroidS
 
 # Cutout control overlays
 PRODUCT_PACKAGES += \
