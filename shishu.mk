@@ -45,6 +45,7 @@ PRODUCT_PACKAGES += \
     FontBigNoodle \
     FontBikoHanken \
     FontComicNeue \
+    FontComicsans \
     FontDecalotype \
     FontExo2 \
     FontFantasqueSansMono \
