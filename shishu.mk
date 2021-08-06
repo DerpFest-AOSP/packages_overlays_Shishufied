@@ -67,6 +67,7 @@ PRODUCT_PACKAGES += \
     FontNow \
     FontOdibee \
     FontOpenSauce \
+    FontOnePlusSans \
     FontPanamericana \
     FontPissel \
     FontPTSansMono \
