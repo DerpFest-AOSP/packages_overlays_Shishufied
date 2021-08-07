@@ -193,6 +193,15 @@ PRODUCT_PACKAGES += \
     headerlargeOverlay \
     headerxlargeOverlay
 
+# Rounded Styles
+PRODUCT_PACKAGES += \
+    StockRounded \
+    NoneRounded \
+    SlightRounded \
+    MediumRounded \
+    HighRounded \
+    ExtremeRounded
+
 # Hot garbage
 #PRODUCT_PACKAGES += \
 #    DarkThemeAndroidOverlay \
