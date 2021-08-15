@@ -26,6 +26,6 @@
     <application android:label="Inter" android:hasCode="false">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="sans-serif,sans-serif-medium,inter-regular,inter-medium-italic" />
+            android:value="inter" />
     </application>
 </manifest>
